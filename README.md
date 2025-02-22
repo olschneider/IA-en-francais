@@ -1,4 +1,4 @@
-# IA-pour-les-francais
+# IA-en-francais
 
 Cette page reprend les différentes sources d'information que je peux trouver sur la compréhension de l'IA en Francais
 
